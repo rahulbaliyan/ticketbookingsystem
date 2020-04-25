@@ -1,3 +1,11 @@
+"""
+__author__ = "Rahul kumar"
+__version__ ="1.0"
+__date__ = "April 25 11:20:15 2020"
+__copyright__ = "©2020 rahul_kumar"
+
+"""
+
 from rest_framework.response import Response
 from rest_framework.views import APIView
 from rest_framework.decorators import permission_classes

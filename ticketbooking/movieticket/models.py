@@ -1,3 +1,11 @@
+"""
+__author__ = "Rahul kumar"
+__version__ ="1.0"
+__date__ = "April 25 14:26:18 2020"
+__copyright__ = "©2020 rahul_kumar"
+
+"""
+
 from __future__ import unicode_literals
 from django.db import models
 from django.contrib.auth.models import User

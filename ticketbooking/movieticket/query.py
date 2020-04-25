@@ -1,3 +1,11 @@
+"""
+__author__ = "Rahul kumar"
+__version__ ="1.0"
+__date__ = "April 25 14:26:18 2020"
+__copyright__ = "©2020 rahul_kumar"
+
+"""
+
 import logging
 from movieticket.models import *
 

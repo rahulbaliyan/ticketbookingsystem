@@ -12,9 +12,16 @@ Class-based views
 Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
+
+__author__ = "Rahul kumar"
+__version__ ="1.0"
+__date__ = "April 25 09:26:18 2020"
+__copyright__ = "©2020 rahul_kumar"
 """
+
 from django.contrib import admin
 from django.urls import path, include
+
 
 urlpatterns = [
     path('admin/', admin.site.urls),

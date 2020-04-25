@@ -11,8 +11,9 @@ https://docs.djangoproject.com/en/2.0/ref/settings/
 
 __author__ = "Rahul kumar"
 __version__ ="1.0"
-__date__ = "April 25 09:40:15 2020"
+__date__ = "April 25 09:26:18 2020"
 __copyright__ = "©2020 rahul_kumar"
+
 """
 
 
